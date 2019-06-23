@@ -1,2 +1,2 @@
 bbbb
-fetch
+fetch $
